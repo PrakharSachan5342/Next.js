@@ -1,2 +1,2 @@
-# nest.js
+# next.js
 git bash testing repo 
